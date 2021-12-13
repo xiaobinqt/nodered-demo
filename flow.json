@@ -4,8 +4,7 @@
         "type": "tab",
         "label": "流程 1",
         "disabled": false,
-        "info": "",
-        "env": []
+        "info": ""
     },
     {
         "id": "14be2472da4be51d",
@@ -46,8 +45,8 @@
         "complete": "false",
         "statusVal": "",
         "statusType": "auto",
-        "x": 390,
-        "y": 340,
+        "x": 410,
+        "y": 380,
         "wires": []
     }
 ]
